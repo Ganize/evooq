@@ -1,0 +1,23 @@
+{
+  "hospitalApp": {
+    "medicine": {
+      "home": {
+        "title": "Medicines",
+        "createLabel": "Créer un nouveau Medicine",
+        "createOrEditLabel": "Créer ou éditer un Medicine",
+        "notFound": "Aucun Medicine trouvé"
+      },
+      "created": "Un nouveau Medicine a été créé avec l'identifiant {{ param }}",
+      "updated": "Le Medicine avec l'identifiant {{ param }} a été mis à jour",
+      "deleted": "Le Medicine avec l'identifiant {{ param }} a été supprimé",
+      "delete": {
+        "question": "Etes-vous certain de vouloir supprimer le Medicine {{ id }} ?"
+      },
+      "detail": {
+        "title": "Medicine"
+      },
+      "medicineName": "Medicine Name",
+      "medicineDescription": "Medicine Description"
+    }
+  }
+}

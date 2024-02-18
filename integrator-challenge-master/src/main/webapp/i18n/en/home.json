@@ -1,0 +1,9 @@
+{
+  "home": {
+    "title": "Welcome, dear Tester!",
+    "subtitle": "This is a simple hospital web app",
+    "logged": {
+      "message": "You are logged in as user \"{{username}}\"."
+    }
+  }
+}

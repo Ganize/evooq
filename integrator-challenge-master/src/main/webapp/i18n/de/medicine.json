@@ -1,0 +1,23 @@
+{
+  "hospitalApp": {
+    "medicine": {
+      "home": {
+        "title": "Medicines",
+        "createLabel": "Medicine erstellen",
+        "createOrEditLabel": "Medicine erstellen oder bearbeiten",
+        "notFound": "No Medicines found"
+      },
+      "created": "Medicine erstellt mit ID {{ param }}",
+      "updated": "Medicine aktualisiert mit ID {{ param }}",
+      "deleted": "Medicine gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Medicine {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Medicine"
+      },
+      "medicineName": "Medicine Name",
+      "medicineDescription": "Medicine Description"
+    }
+  }
+}

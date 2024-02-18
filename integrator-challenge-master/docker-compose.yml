@@ -1,0 +1,13 @@
+version: '3.6'
+
+services:
+  challenge:
+    # On Apple M1 uncomment the line below, the Gradle build will be possibly slow
+    #platform: linux/amd64
+    build: ./docker
+    command: gradle bootRun
+    working_dir: /home/gradle/challenge
+    ports:
+      - '8080:8080'
+    volumes:
+      - .:/home/gradle/challenge:rw

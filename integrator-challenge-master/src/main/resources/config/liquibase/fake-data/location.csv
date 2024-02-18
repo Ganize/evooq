@@ -1,0 +1,139 @@
+id;street_address;postal_code;city;state_province;country_id
+1;1541 Randy Reed Street;102735;Ufa;Bashkortostan;185
+2;7738 Pamela Diaz Square;125202;Madagascar;Madagascar;100
+3;7804 Frances Phillips Way;356208;El Salvador;El Salvador;45
+4;7350 Emily Edwards Canyon;239926;Seoul;Seoul;163
+5;406 Katherine Watson Canyon;382062;Sus;Massa;50
+6;3015 Amanda Carter Canyon;443964;Mauritania;Mauritania;72
+7;1149 Donald Wilson Square;370584;Puyo;Pastaza;76
+8;8921 Dylan Allen Canyon;300797;Port-gentil;West;37
+9;5387 Larry Williams Canyon;169689;Oulu;Oulu;75
+10;2388 Sandra Anderson Avenue;135508;Kyrgyzstan;Kyrgyzstan;101
+11;9463 Alan Rivera Square;447211;Sydney;Sydney Central Coast;165
+12;2711 Justin Peterson Square;505831;Kokopo;Islands Region;169
+13;5934 Jennifer Ward Square;213132;Vanuatu;Vanuatu;90
+14;3670 Stephen Mitchell Boulevard;162443;Bridgetown;Barbados;18
+15;6414 Charlotte Hughes Square;194193;Rouen;Normandy;178
+16;3378 William Richardson Square;118220;Malta;Malta;103
+17;2885 Jason Patel Street;38534;Slovakia;Slovakia;130
+18;7058 Catherine Bennet Avenue;433025;Ljubljana;Osrednjeslovenska;68
+19;5790 Frances Johnson Square;491533;Havana;La Habana;70
+20;6945 Marilyn Cook Canyon;260350;Ikea;Kalmar Lan;64
+21;4956 Ralph Roberts Square;645896;Timor;East Timor;34
+22;5401 Marilyn Foster Way;283432;Algiers;Algerios;15
+23;382 Mary Cruz Street;110229;Split;Split;63
+24;7178 Gerald Nelson Boulevard;207818;Cyprus;Cyprus;27
+25;5576 Sharon Parker Avenue;550308;Trinidad and Tobago;Tobago;28
+26;5253 Jose Martin Square;467475;Bulawayo;Bulawayo;168
+27;2723 Dylan Roberts Boulevard;415072;Touba;Diourbel;186
+28;3175 Abigail Smith Street;123596;Patagonia;Sounth Argentina;57
+29;5545 Joseph Adams Square;42659;Arequipa;Arequipa;121
+30;3115 Karen Turner Square;134095;Roma;Lazio;175
+31;1936 Wayne Cruz Square;462194;Samoa;Samoa;61
+32;2321 Carl Roberts Canyon;175299;Latvia;Latvia;73
+33;3051 Ryan Wilson Square;284962;Nassau;The Bahamas;3
+34;8773 Isabella Kelly Avenue;321955;Camden;Greater London;162
+35;853 Charles Ramos Avenue;413113;Hue;Red River Delta;131
+36;2329 Evelyn Adams Square;177934;London;Crystal Palace;141
+37;305 Kevin Young Way;246404;Tete;Tete;148
+38;5485 Karen Sanders Square;614265;Bamako;Mali region;5
+39;3498 David Bailey Street;744334;Dublin;Capital Region;12
+40;7079 Amy Stewart Avenue;385865;Vientiane;Vientiane Prefecture;167
+41;9934 Samantha Rogers Square;716332;Panama;Panama;54
+42;6203 Evelyn Scott Avenue;81609;El Seybo;Yuma;40
+43;4885 Catherine Morgan Boulevard;498187;Tuguegarao;Cagayan Valley;32
+44;4534 Logan Young Avenue;447425;Costa Rica;Costa Rica;62
+45;4107 Hannah Price Way;91137;Burundi;Burundi;88
+46;3246 Joseph James Canyon;241162;Caacupe;Cordillera;69
+47;3982 William Bailey Square;747384;Sanskrit;Central Singapore;26
+48;5543 Douglas Garcia Square;699967;Ngerulmud;Micronesia;20
+49;4217 Anna Reed Avenue;214392;Tirana;Tiranes;51
+50;8214 Andrew Ramirez Way;248551;Bangkook;Bangook and Around;84
+51;8858 Cynthia Ortiz Square;130968;Lagos;Gulf of Guinea;9
+52;140 Ethan Evans Street;321168;Moka;Central;56
+53;3432 Helen Kim Square;305126;Zambia;Central Africa;17
+54;2720 Larry Morris Avenue;157709;Chiapas;Chiapas;86
+55;9109 Jeremy Garcia Avenue;739243;Kampala;Kampala;176
+56;5641 John Castillo Street;501156;Tomaso Rossini;Nowhere;105
+57;4211 Karen Sanders Way;644386;Bihac;Una-Sana;85
+58;2710 David Flores Street;189542;Culapa;Santa Rosa;53
+59;2764 Rebecca Campbell Boulevard;352771;Lome;Maritime;67
+60;9285 Brian Parker Boulevard;49374;Hokkaido;Hokkaido;25
+61;7129 Jason Williams Avenue;480760;Kerki;Kerki;177
+62;3843 Joshua Peterson Street;530961;Malawi;Malawi;60
+63;960 Dorothy Wright Canyon;237872;Bahrain;Bahrain;58
+64;3796 Donald Edwards Street;89213;Qatar;Qatar;109
+65;4747 Justin Brooks Street;597318;Taipei;Headquarter;95
+66;8856 Diana Rogers Boulevard;470601;Wuhan;Bat Region;98
+67;3503 Brittany Lee Boulevard;707040;Wadi Dhar;Middle East;6
+68;8986 Marilyn Murphy Square;135487;Sao Tome;Central Africa;7
+69;1819 Paul Reyes Way;701018;Warsaw;Greater Poland;19
+70;1759 Logan Lopez Street;227033;Oman;Oman;166
+71;6754 Judith Myers Street;465421;Kindia;Kindia;55
+72;2664 Raymond Price Square;520801;Velika Plaza;Montenegro;10
+73;7609 Wayne Ruiz Square;146738;Victoria;British Columbia;16
+74;1636 Julie Roberts Street;207590;Lac;Lac;83
+75;6268 Anna Alvarez Way;18243;Saint Vincent and the Grenadines;Mid;36
+76;8426 Gregory Evans Square;389766;Kanifing;Kanifing;147
+77;8753 Benjamin Ruiz Street;648442;Vatican City;Vatican City;158
+78;482 Wayne Clark Square;446662;Gan;Indian Ocean;14
+79;4196 Billy Long Canyon;606295;Marshall Islands;Marshall Islands;149
+80;5001 Vincent Peterson Avenue;300410;Fiordland;South Island;44
+81;6264 Gabriel Green Square;162245;Pea;Tongatapu;33
+82;8348 Jordan Wood Street;722916;Guyana;Guyana;110
+83;8479 Samuel Smith Square;142473;Deps;Deps;71
+84;9759 Stephen Watson Canyon;458532;Thimphu;Autonomous Region of China;8
+85;7252 Rachel Stewart Way;356398;Praia;Praia;13
+86;3570 Noah Ross Avenue;542415;Lerik;Lerik;23
+87;23 Christian Brooks Street;221727;Liechtenstein;Liechtenstein;21
+88;5521 Kevin Morris Avenue;519039;Maradi;Maradi;48
+89;1888 Alexander Ortiz Canyon;556966;El Salvador;El Salvador;46
+90;4309 Emma Nelson Avenue;461051;Perkata;Fejer megye;47
+91;9226 Ann Baker Way;567712;Dushanbe;Dushanbe;92
+92;2289 Michelle Miller Way;182743;Almaty;Kazakhstan province;2
+93;5094 Noah Johnson Canyon;527796;Jacmel;Haiti region;4
+94;9407 Brian Ross Canyon;467643;Reykjavik;Capital Region;11
+95;4477 Joshua Anderson Boulevard;504997;Rapla;Ramplamaa;65
+96;4618 Aaron Reyes Avenue;617486;Kanye;South;89
+97;4350 Stephanie Foster Canyon;702884;Lusaka;Lusaka;74
+98;2905 Scott Lee Avenue;384497;Beirut;Beirut Governorate;93
+99;5101 Walter Diaz Avenue;446340;Makkah;Mecca Region;1
+100;4493 Randy Anderson Square;16468;Ankara;Central Anatolia;22
+101;5709 Harold Bennet Boulevard;261451;Page;Central;91
+102;641 Martha Long Way;235036;Fribourg;Fribourg;146
+103;2240 Austin Ruiz Boulevard;130948;Ouham;Central African Rep;35
+104;5422 Nicole Patel Way;584560;Hohhot;East Asia;104
+105;7283 Joshua Hill Avenue;352311;Trondelag;Norway;81
+106;2302 Ryan Robinson Canyon;642060;Tunis;Tunisia;106
+107;6106 Brittany Patel Boulevard;533464;Nairobi;Largest central;94
+108;1523 Ralph Morris Square;588600;Porto;Porto;164
+109;9737 Bruce Ortiz Boulevard;601393;Sofya;Sofia Provence;29
+110;8901 Ethan Gomez Way;603364;Jakarta;Java;24
+111;7294 Sandra Martin Street;732417;Athen;Athene;102
+112;3880 Julia Ross Square;296540;Hetauda;Bagmati Province;79
+113;530 Lauren Peterson Canyon;747621;Roseau;Mid west;31
+114;894 Steven Stewart Canyon;164430;Zeeland;Zeeland;150
+115;176 Christian Hill Street;573300;Seychelles;Seychelles;30
+116;6814 Kayla Moore Avenue;25806;Windhoek;Khomas;96
+117;6355 Rachel Long Canyon;23588;Gracias;Lempira;52
+118;3476 Brittany Reyes Way;743127;Gode;Somali;78
+119;6944 Tyler Mendoza Street;303354;Macedonia;Macedonia;111
+120;1067 Gary Myers Canyon;158383;Suriname;Suriname;49
+121;7015 Patricia Morgan Way;191735;New York;New York;43
+122;1611 Carolyn Rogers Square;147427;Murci;Murcia;97
+123;5424 Paul Williams Canyon;93673;Luxembourg;Luxembourg;187
+124;6709 Bobby Long Boulevard;136286;Novi Sad;Vojvoding;66
+125;4759 Raymond Lopez Avenue;635320;Karachi;Sindh;132
+126;8350 Willie Smith Square;39033;Kibuye;Western;87
+127;4727 Diana Kelly Canyon;304916;Bukhara;Bukhara;99
+128;5 Benjamin Torres Canyon;363065;Calulo;Cuanza Sul;108
+129;288 Dorothy Wilson Canyon;305737;Saint George;Saint George;80
+130;9234 Jesse Stewart Square;696799;Abovyan;Kotayk;41
+131;3704 Rose Richardson Square;476179;St Kitts and Nevis;Kitts;59
+132;298 Carl Carter Avenue;289808;Dubai;Dubai;42
+133;2747 Kathryn Perez Street;679009;Guam;Caroline Islands;38
+134;7192 Sophia Harris Boulevard;595415;Kharkiv;Karkiv Oblast;107
+135;7117 Sophia Ross Boulevard;62960;Encamp;Parroquia de Canillo;82
+136;4211 Jesse Rodriguez Square;553987;Kuala Terengganu;Terengganu;39
+137;3027 Lawrence Price Boulevard;417699;Santa Isabel;Isabel;77
+

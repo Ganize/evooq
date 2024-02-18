@@ -1,0 +1,9 @@
+{
+  "home": {
+    "title": "Bienvenue, Tester!",
+    "subtitle": "This is some very very bad french translation!",
+    "logged": {
+      "message": "Vous êtes connecté en tant que \"{{username}}\"."
+    }
+  }
+}

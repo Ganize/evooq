@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.evooq",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "hospital",
+    "packageName": "com.evooq",
+    "packageFolder": "com/evooq",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NWYxNDQ2OTlkNGYyNzRlYTY5NDYxY2IxZmI0NjczY2MyYTQzZTBkNWEyMzA4MzAwMzE4NGE5NmRlNThhN2U5N2ZlZWZlOGU0MzNmNWYyZmRiMDNjNjViN2U5NWEwNzZhMGYzODllN2M3M2I5Zjk5NmZlNjA3YTE5YzQwN2U0ZDQ=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "solar",
+    "clientThemeVariant": "dark",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "fr", "de"],
+    "blueprints": [],
+    "creationTimestamp": 1605080738110
+  }
+}
